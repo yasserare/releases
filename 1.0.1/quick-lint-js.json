@@ -1,0 +1,103 @@
+{
+  "releases": [
+    {
+      "name": "linux.tar.gz",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "linux",
+      "arch": "amd64",
+      "ext": "tar",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/linux.tar.gz"
+    },
+    {
+      "name": "linux-aarch64.tar.gz",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "linux",
+      "arch": "arm64",
+      "ext": "tar",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/linux-aarch64.tar.gz"
+    },
+    {
+      "name": "linux-armhf.tar.gz",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "linux",
+      "arch": "armv7l",
+      "ext": "tar",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/linux-armhf.tar.gz"
+    },
+    {
+      "name": "macos.tar.gz",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "macos",
+      "arch": "amd64",
+      "ext": "tar",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/macos.tar.gz"
+    },
+    {
+      "name": "macos-aarch64.tar.gz",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "macos",
+      "arch": "arm64",
+      "ext": "tar",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/macos-aarch64.tar.gz"
+    },
+    {
+      "name": "windows.zip",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "windows",
+      "arch": "amd64",
+      "ext": "zip",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/windows.zip"
+    },
+    {
+      "name": "windows-arm.zip",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "windows",
+      "arch": "armv7l",
+      "ext": "zip",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/windows-arm.zip"
+    },
+    {
+      "name": "windows-arm64.zip",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "windows",
+      "arch": "arm64",
+      "ext": "zip",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/windows-arm64.zip"
+    },
+    {
+      "name": "windows-x86.zip",
+      "version": "2.14.0",
+      "lts": false,
+      "channel": "stable",
+      "date": "2023-05-22",
+      "os": "windows",
+      "arch": "x86",
+      "ext": "zip",
+      "download": "https://c.quick-lint-js.com/releases/2.14.0/manual/windows-x86.zip"
+    }
+  ]
+}
